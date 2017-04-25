@@ -1,4 +1,4 @@
-# YJPopMenu
+## YJPopMenu
 
 ![license](https://img.shields.io/npm/l/express.svg)
 ![version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
@@ -7,14 +7,14 @@
 * 快速集成YJPopMenu
 * 一款菜单选择器/选项卡，类似于微信右上角，点击'+'号后弹出的选项卡
 
-# 效果图
+## 效果图
 ![(演示效果)](http://oniie1tv8.bkt.clouddn.com/YJPopMenu.gif)
 
-# 说明
+## 说明
 
 * 可以选择显示模式，明色和暗色两种色调可供选择
 
-# 使用方法
+## 使用方法
 
 * 导入YJPopMenu
 
@@ -61,7 +61,7 @@ NSArray *iconArray = @[@"pop_menu_motify",@"pop_menu_delete",@"pop_menu_scan",@"
 }
 ```
 
-#版本支持
+## 版本支持
 
 * `xcode7.0+`
 
