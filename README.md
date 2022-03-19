@@ -8,7 +8,7 @@
 * 一款菜单选择器/选项卡，类似于微信右上角，点击'+'号后弹出的选项卡
 
 ## 效果图
-![(演示效果)](https://raw.fastgit.org/guanzhendong/QQPopMenuView/master/screenshot.gif)
+![(演示效果)](https://upload-images.jianshu.io/upload_images/1819713-b4220ee49949b2b4.gif?imageMogr2/auto-orient/strip)
 
 ## 说明
 
